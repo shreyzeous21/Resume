@@ -1,2 +1,2 @@
 # resume
-shreyzeous21.github.io/resume
+https://shreyzeous21.github.io/resume/
